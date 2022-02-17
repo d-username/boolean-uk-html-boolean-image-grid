@@ -48,7 +48,7 @@
 .list {
     list-style: none;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 300px));
+    grid-template-columns: repeat(auto-fit, minmax(250px, auto));
 }
 
 .laptop {
@@ -58,6 +58,7 @@
 
 .card p {
     padding: 25px;
+  
 }
 
 .icons_right {
